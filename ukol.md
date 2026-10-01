@@ -1,1 +1,1 @@
-//desifrovani caesarovy sifry
+//desifrovani caesarovy sifry, brute force

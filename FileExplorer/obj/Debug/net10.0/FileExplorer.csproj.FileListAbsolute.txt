@@ -1,0 +1,15 @@
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\obj\Debug\net10.0\FileExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\obj\Debug\net10.0\FileExplorer.AssemblyInfoInputs.cache
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\obj\Debug\net10.0\FileExplorer.AssemblyInfo.cs
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\obj\Debug\net10.0\FileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\obj\Debug\net10.0\FileExplorer.sourcelink.json
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\bin\Debug\net10.0\FileExplorer.exe
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\bin\Debug\net10.0\FileExplorer.deps.json
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\bin\Debug\net10.0\FileExplorer.runtimeconfig.json
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\bin\Debug\net10.0\FileExplorer.dll
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\bin\Debug\net10.0\FileExplorer.pdb
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\obj\Debug\net10.0\FileExplorer.dll
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\obj\Debug\net10.0\refint\FileExplorer.dll
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\obj\Debug\net10.0\FileExplorer.pdb
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\obj\Debug\net10.0\FileExplorer.genruntimeconfig.cache
+C:\Users\NovotnyO\Documents\ondrej-novotny\FileExplorer\obj\Debug\net10.0\ref\FileExplorer.dll

@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="AreaVolume/AreaVolume.csproj" />
+  <Project Path="FileExplorer/FileExplorer.csproj" />
   <Project Path="Statistics/Statistics.csproj" />
   <Project Path="Factorial/Factorial.csproj" />
 </Solution>
