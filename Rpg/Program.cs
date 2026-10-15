@@ -36,17 +36,33 @@ class Character
         Name = name;
         Maxhealth = maxhealth;
         CurrentPosition = position;
+        ActiveHealth = maxhealth;
+    }
+
+    public void Heal(int gain)
+    {
+        this.ActiveHealth += gain;
     }
 }
 
 class PlayerCharacter : Character
 {
     //AI
+    public PlayerCharacter(string Name, int Maxhealth, Position CurrentPosition) : base(Name, Maxhealth, CurrentPosition)
+    {
+    }
+    
 }
 
 class NPC : Character
 {
+    public int MonsterType;
     //control
+
+    public NPC(string Name, int Maxhealth, Position CurrentPosition, int monsterType) : base(Name, Maxhealth, CurrentPosition)
+    {
+        this.MonsterType = monsterType; 
+    }
 }
 
 class Inventory
